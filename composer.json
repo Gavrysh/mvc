@@ -5,8 +5,8 @@
     "require": {},
     "autoload": {
         "psr-4": {
-            "App\\": "App/",
-            "Core\\": "Core/"
+            "Application\\": "App/Application/",
+            "Core\\": "Src/Core/"
         }
     }
 }
